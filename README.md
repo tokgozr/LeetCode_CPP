@@ -30,4 +30,12 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tokgozr/LeetCode_CPP/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/tokgozr/LeetCode_CPP/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/tokgozr/LeetCode_CPP/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
