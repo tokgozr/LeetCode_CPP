@@ -16,6 +16,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tokgozr/LeetCode_CPP/tree/master/0088-merge-sorted-array) |
 | [0303-range-sum-query-immutable](https://github.com/tokgozr/LeetCode_CPP/tree/master/0303-range-sum-query-immutable) |
+| [1755-defuse-the-bomb](https://github.com/tokgozr/LeetCode_CPP/tree/master/1755-defuse-the-bomb) |
 ## Design
 |  |
 | ------- |
@@ -51,4 +52,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/tokgozr/LeetCode_CPP/tree/master/1013-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [1755-defuse-the-bomb](https://github.com/tokgozr/LeetCode_CPP/tree/master/1755-defuse-the-bomb) |
 <!---LeetCode Topics End-->
