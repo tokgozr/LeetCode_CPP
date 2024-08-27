@@ -6,6 +6,7 @@
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tokgozr/LeetCode_CPP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/tokgozr/LeetCode_CPP/tree/master/0657-robot-return-to-origin) |
+| [1954-replace-all-digits-with-characters](https://github.com/tokgozr/LeetCode_CPP/tree/master/1954-replace-all-digits-with-characters) |
 ## Simulation
 |  |
 | ------- |
